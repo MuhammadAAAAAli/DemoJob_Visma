@@ -1,6 +1,6 @@
 ## Publish/Subscribe pattern
 
-#### [DEMO Video](https://youtu.be/F3Qn2M8cilU) | B_WEB as startup project
+#### [DEMO Video](https://youtu.be/F3Qn2M8cilU)
 
 <br> 
 
